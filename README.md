@@ -1,6 +1,6 @@
 ### Olá, Aventureiro, Seja Bem vindo 👋
 
-- 🔭 desenvolvedor .Net Core; Asp.net; Aspirante a Unity3D;
+- 🔭 desenvolvedor .Net Core; Asp.net Core; Aspirante a Unity3D;
 - 📚 Estudando Unity3D, MAUI;
 - 👯 Çontato: raffa_matta@yahoo.com.br
 
