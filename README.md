@@ -1,7 +1,7 @@
 ### Olá, Aventureiro, Seja Bem vindo 👋
 
-- 🔭 desenvolvedor C#, .Net Core;
-- 📚 Estudando HTML, CSS;
+- 🔭 desenvolvedor C#, .Net Core, SQL;
+- 📚 Estudando HTML, CSS, MYSQL;
 - 👯 Contato: raffa_matta@yahoo.com.br
 
 <div style="display: inline_block"><br>
