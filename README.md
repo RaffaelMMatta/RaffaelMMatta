@@ -1,4 +1,4 @@
-### Olá, Aventureiro, Seja Bem vindo 👋
+### Olá, Seja Bem vindo 👋
 
 - 🔭 desenvolvedor Kotlin, Android Studio;
 - 📚 Estudando design UX/UI;
