@@ -1,7 +1,9 @@
 ### Olá, Seja Bem vindo 👋
 
-- 🔭 desenvolvedor Kotlin, Android Studio;
-- 📚 Estudando design UX/UI;
+- 💻 Cursando Tecnologia em analise e desenvolvimento de sistema na Unicesumar;
+- 📱 linguagem que utilizo: Kotlin.
+- 🔍 Próxima linguagem ser aprendida: Swift;
+- 📚 Estudando: design UX/UI, Android Studio;
 - ✉️ Contato: raffa_matta@yahoo.com.br
   
 <div style="display: inline_block"><hr width="350">
