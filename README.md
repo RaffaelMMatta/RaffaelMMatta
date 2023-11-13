@@ -2,7 +2,7 @@
 
 - 💻 Cursando Tecnologia em analise e desenvolvimento de sistema na Unicesumar;
 - 📱 linguagem que utilizo: Kotlin.
-- 🔍 Próxima linguagem ser aprendida: Swift;
+- 🔍 Próxima linguagem ser aprendida: Java;
 - 📚 Estudando: design UX/UI, Android Studio;
 - ✉️ Contato: raffa_matta@yahoo.com.br
   
